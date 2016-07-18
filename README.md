@@ -1,6 +1,6 @@
 # Emojify
 Make your Swift files way harder to use!
 
-![emojify demo](Emojify/emojifyDemo.gif)
+![emojify demo](emojifyDemo.gif)
 
 Changes all fitting words into emoji.
